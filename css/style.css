@@ -1,0 +1,40 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    border: 3px solid #76b3d8;
+    width: 189px;
+    padding: 8px;
+}
+.inp{
+    width: 177px;
+    height: 25px;
+    font-size: 16px;
+    /* letter-spacing: 8px; */
+    color:rgb(143, 143, 143);
+    text-align: right;
+}
+
+table{
+    border-spacing: 3px
+}
+
+td
+{
+    width:30px; 
+    height:30px;
+    border: solid 1px rgb(194, 192, 192);
+    background-color: #ecebeb; 
+    text-align: center;
+}
+td:hover{
+    border:1px solid #5790f8;
+}
+
+#vvod{
+    position:absolute;
+    top: 26px;
+    color: black;
+    left: 25px;
+    font-size: 16px;
+} 
